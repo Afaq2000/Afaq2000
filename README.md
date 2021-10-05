@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Afaq2000
+- 👀 I’m interested in cyber security trainings and work...
+- 🌱 I’m currently learning ML/DL in Malware...
+- 📫 You can contact me on ahmdafaq@gmail.com ...
+
+<!---
+Afaq2000/Afaq2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
